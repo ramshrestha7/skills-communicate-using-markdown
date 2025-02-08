@@ -10,8 +10,12 @@ var myVar="Hello, World!"
 $git init
 Initialized empty Git repository in /users/skills/Projects/recipe-repository/.git/
 ```
-- [x] List syntax is required. 
-- [x] This item is complete. 
-- [ ] This item is not complete.
+- [x] Review course syllabus.  
+- [x] Set up the development environment.  
+- [ ] Complete the first coding assignment.  
+- [ ] Read Chapter 1 and take notes.  
+- [ ] Participate in the discussion forum.  
+- [ ] Work on the group project proposal.  
+- [ ] Submit the weekly quiz.  
+- [ ] Attend office hours for clarification on project requirements.  
 
-      
