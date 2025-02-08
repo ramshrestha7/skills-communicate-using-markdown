@@ -10,6 +10,8 @@ var myVar="Hello, World!"
 $git init
 Initialized empty Git repository in /users/skills/Projects/recipe-repository/.git/
 ```
+
+#TO DO LIST 
 - [x] Review course syllabus.  
 - [x] Set up the development environment.  
 - [ ] Complete the first coding assignment.  
